@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>sainsmart_relay_usb</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <description>
     SainSmart USB relay driver controller
   </description>
@@ -18,5 +18,7 @@
   <depend>roscpp</depend>
   <depend>std_msgs</depend>
   <depend>libftdi-dev</depend>
+
+  <build_depend>roslib</build_depend> <!-- Needed for ROS_DISTRO environment variable -->
 
 </package>
