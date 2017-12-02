@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 2.8.3)
 project(sainsmart_relay_usb)
 
 find_package(catkin REQUIRED COMPONENTS
+  roslib
   roscpp
   std_msgs
 )
