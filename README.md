@@ -1,3 +1,26 @@
+## sainsmart_relay_usb (indigo) - 0.0.2-0
+
+The packages in the `sainsmart_relay_usb` repository were released into the `indigo` distro by running `/usr/bin/bloom-release sainsmart_relay_usb --track indigo --rosdistro indigo` on `Sat, 02 Dec 2017 19:49:50 -0000`
+
+The `sainsmart_relay_usb` package was released.
+
+Version of package(s) in repository `sainsmart_relay_usb`:
+
+- upstream repository: https://bitbucket.org/DataspeedInc/sainsmart_relay_usb
+- release repository: https://github.com/DataspeedInc-release/sainsmart_relay_usb-release.git
+- rosdistro version: `0.0.1-0`
+- old version: `0.0.1-0`
+- new version: `0.0.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## sainsmart_relay_usb (kinetic) - 0.0.1-0
 
 The packages in the `sainsmart_relay_usb` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic sainsmart_relay_usb --edit` on `Thu, 30 Nov 2017 15:41:43 -0000`
