@@ -1,0 +1,15 @@
+ros-kinetic-sainsmart-relay-usb (0.0.2-0jessie) jessie; urgency=high
+
+  * Added build dependency on roslib, needed for the ROS_DISTRO environment variable
+  * Contributors: Kevin Hallenbeck
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Sat, 02 Dec 2017 05:00:00 -0000
+
+ros-kinetic-sainsmart-relay-usb (0.0.1-0jessie) jessie; urgency=high
+
+  * Initial release
+  * Contributors: Kevin Hallenbeck
+
+ -- Kevin Hallenbeck <khallenbeck@dataspeedinc.com>  Thu, 30 Nov 2017 05:00:00 -0000
+
+
